@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-![Project Preview](PASTE_YOUR_IMAGE_LINK_HERE)
+![Project Preview](Overview/QUERY%203.png)
 
 This project explores a pizza sales dataset using SQL to understand customer ordering patterns, product performance, and overall business sales. The objective was to answer real business questions by writing SQL queries and transforming raw data into meaningful insights.
 
