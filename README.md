@@ -1,13 +1,11 @@
 # 🍕 Pizza Sales SQL Analysis
 
 ## 📌 About the Project
-
 ![Project Preview](Overview/QUERY%203.png)
 
 This project explores a pizza sales dataset using SQL to understand customer ordering patterns, product performance, and overall business sales. The objective was to answer real business questions by writing SQL queries and transforming raw data into meaningful insights.
 
 Some of the questions explored include:
-
 - How many orders were placed?
 - What was the total revenue generated?
 - Which pizzas were ordered the most?
@@ -18,7 +16,6 @@ Some of the questions explored include:
 ---
 
 ## 🛠️ Tools Used
-
 - MySQL Workbench
 - MySQL
 - SQL
@@ -27,9 +24,7 @@ Some of the questions explored include:
 ---
 
 ## 📂 Dataset
-
 The project uses a pizza sales dataset containing information about:
-
 - Orders
 - Order Details
 - Pizzas
@@ -38,7 +33,6 @@ The project uses a pizza sales dataset containing information about:
 ---
 
 ## 📊 SQL Skills Used
-
 - Joins
 - Aggregate Functions
 - GROUP BY
@@ -51,7 +45,6 @@ The project uses a pizza sales dataset containing information about:
 ---
 
 ## 📈 Analysis Performed
-
 - Total orders placed
 - Total revenue generated
 - Highest-priced pizza
@@ -66,6 +59,12 @@ The project uses a pizza sales dataset containing information about:
 
 ---
 
-## ⭐ Final Thoughts
+## 🔗 Related Project
+The insights from this analysis were later used to build an interactive Power BI dashboard.
 
+➡️ **Pizza Sales Power BI Dashboard** *(link-to-your-powerbi-repo)*
+
+---
+
+## ⭐ Final Thoughts
 This project helped me strengthen my SQL skills by solving practical business problems using a real-world sales dataset. Working with MySQL Workbench gave me hands-on experience in writing queries, analyzing sales data, and using SQL to generate meaningful business insights.
