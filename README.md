@@ -62,7 +62,7 @@ The project uses a pizza sales dataset containing information about:
 ## 🔗 Related Project
 The insights from this analysis were later used to build an interactive Power BI dashboard.
 
-➡️ **Pizza Sales Power BI Dashboard** *(link-to-your-powerbi-repo)*
+➡️ **Pizza Sales Power BI Dashboard** *([link-to-your-powerbi-repo](https://github.com/madhur489/Pizza-Sales-PowerBI-Dashboard))*
 
 ---
 
